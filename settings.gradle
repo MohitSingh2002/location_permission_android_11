@@ -1,0 +1,2 @@
+rootProject.name = "blog_1_location_permissions"
+include ':app'
